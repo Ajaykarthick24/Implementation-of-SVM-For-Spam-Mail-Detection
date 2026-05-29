@@ -66,10 +66,7 @@ plt.title("Confusion Matrix for SVM Spam Detection")
 plt.show()
 */
 ```
-
 ## Output:
 <img width="500" height="317" alt="image" src="https://github.com/user-attachments/assets/4010ee90-b9c3-43b3-9f79-c093b8f64b7d" />
-
-
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
